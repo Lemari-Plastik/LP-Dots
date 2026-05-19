@@ -1,0 +1,12 @@
+* {
+  background:       #1F1F1FCC; /* Lebih mendekati abu-abu gelap */
+  foreground:       #E8E8E8FF; /* Lebih putih/terang */
+  accent:           #9E9E9E69; /* Abu-abu lebih muda */
+  background-tb:    #404040FF; /* Abu-abu medium */
+  border-tb:        #303030FF; /* Abu-abu gelap */
+  selected:         linear-gradient(to right, #303030FF, #9E9E9E69);
+  button:           linear-gradient(#757575FF);
+  button-selected:  linear-gradient(#9E9E9E69);
+  active:           linear-gradient(to right, #8C8C8CFF, #D1D1D1FF);
+  urgent:           #FFFFFFCC; /* Tetap putih untuk kontras maksimal */
+}

@@ -18,7 +18,7 @@
   | Terminal| [Kitty](https://github.com/kovidgoyal/kitty) |
   | Shell| [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)/[theme](https://github.com/romkatv/powerlevel10k) |
   | Bar| [Waybar](https://github.com/Alexays/Waybar) |
-  | Launcher| [Wofi](https://hg.sr.ht/~scoopta/wofi) |
+  | Launcher| [Rofi](https://hg.sr.ht/~scoopta/wofi) |
   | Wallpaper Utils| [awww](https://codeberg.org/LGFae/awww) |
   | COlor generator| [pywal16](https://github.com/eylles/pywal16.git) |
   | Lockscreen| [hyprlock](https://github.com/hyprwm/hyprlock) |
@@ -35,7 +35,7 @@
 
 1. Install the required dependecies:
     ```bash
-    sudo pacman -S hyprland hyprlock kitty wofi waybar zsh cava swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd 
+    sudo pacman -S hyprland hyprlock hypridle kitty rofi waybar zsh cava swaync ttf-jetbrains-mono ttf-jetbrains-mono-nerd 
     ```
 
     ```bash
@@ -53,14 +53,9 @@
     cp -r .config/* ~/.config/
     ```
 
-4. tweak a little bit forthe wofi css file
-    ```bash
-    @import url('/home/rezfire/.cache/wal/colors-waybar.css');
-    ```
-    it will be look like this after you copy the dotfiles config to your setup, change the "rezfire"  with  your actual  username
+4. restart your session and enjoy the setup!
 
-5. restart your session and enjoy the setup!
-
+*P.S: i reccomend to use "wal -i ~/,config/wallpaper/the-image.jpg" in order pywal16 to work properly, good luck*
 
 </details>
 
