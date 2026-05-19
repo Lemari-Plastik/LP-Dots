@@ -18,11 +18,11 @@
   | Terminal| [Kitty](https://github.com/kovidgoyal/kitty) |
   | Shell| [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)/[theme](https://github.com/romkatv/powerlevel10k) |
   | Bar| [Waybar](https://github.com/Alexays/Waybar) |
-  | Launcher| [Rofi](https://hg.sr.ht/~scoopta/wofi) |
+  | Launcher| [Rofi](https://github.com/davatorium/rofi) |
   | Wallpaper Utils| [awww](https://codeberg.org/LGFae/awww) |
-  | COlor generator| [pywal16](https://github.com/eylles/pywal16.git) |
+  | Color generator| [pywal16](https://github.com/eylles/pywal16.git) |
   | Lockscreen| [hyprlock](https://github.com/hyprwm/hyprlock) |
-  | AUdio Visualizer| [cava](https://github.com/karlstav/cava) |
+  | Audio Visualizer| [cava](https://github.com/karlstav/cava) |
   | Notification| [swayNC](https://github.com/ErikReider/SwayNotificationCenter.git) |
   | Font| [JetBrainsMono Nerd font] |
 
